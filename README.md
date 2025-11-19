@@ -1,4 +1,4 @@
-👋 Hi, I’m Yuxiang Zhao (赵煜翔)
-💃 I am currently a computer vision researcher at Alibaba Group, exploring the boundaries of embodied intelligence. Prior to this, I worked at Baidu on controllable generation of anime content. I graduated in 2024 from Sun Yat-sen University, where I conducted research on human pose estimation
-🤺 I’m interested in Computer Vision, especially Pose Estimation and Image Generation
-📫 Reach me by zeusyux@gmail.com
+- 👋 Hi, I’m Yuxiang Zhao (赵煜翔)
+- 💃 I am currently a computer vision researcher at Alibaba Group, exploring the boundaries of embodied intelligence. Prior to this, I worked at Baidu on controllable generation of anime content. I graduated in 2024 from Sun Yat-sen University, where I conducted research on human pose estimation
+- 🤺 I’m interested in Computer Vision, especially Pose Estimation and Image Generation
+- 📫 Reach me by zeusyux@gmail.com
